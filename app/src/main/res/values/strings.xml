@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Famous Places</string>
+    <string name="coffee_shops">Coffee Shops</string>
+    <string name="fast_foods">Fast Foods</string>
+    <string name="towers">Towers</string>
+    <string name="place_info">Place Info</string>
+</resources>
